@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PremierProjetAtos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txv_title">Hello World</string>
+    <string name="edt_message_hint">Tapez votre texte ici</string>
+    <string name="btn_add">Ajoutez!</string>
+    
+    <!-- ForThe AlertDialog -->
+    <string name="dialog_message">Voulez vous blabla %1$s</string>
+    <string name="dialog_yes">ok</string>
+    <string name="dialog_no">nok</string>
+
+</resources>
